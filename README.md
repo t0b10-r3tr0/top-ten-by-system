@@ -19,251 +19,264 @@ Without any further ado, here is the list:
 
 ## Atari 2600
 
-* Pitfall
-* Ms. Pac-Man
-* Space Invaders
-* Kaboom!
-* River Raid
-* Adventure
-* Pac-Man
-* Donkey Kong
-* Asteroids
-* Berzerk
+1. Pitfall
+1. Ms. Pac-Man
+1. Space Invaders
+1. Kaboom!
+1. River Raid
+1. Adventure
+1. Pac-Man
+1. Donkey Kong
+1. Asteroids
+1. Berzerk
 
 ## NEC PC Engine / TurboGrafx-16
 
-* Ninja Spirit
-* Devil’s Crush
-* Bonk’s Revenge
-* Dragon’s Curse
-* Legendary Axe
-* Blazing Lasers
-* Keith Courage in Alpha Zones
-* Vigilante
-* China Warrior
-* Neutopia
+1. Ninja Spirit
+1. Devil’s Crush
+1. Bonk’s Revenge
+1. Dragon’s Curse
+1. Legendary Axe
+1. Blazing Lasers
+1. Keith Courage in Alpha Zones
+1. Vigilante
+1. China Warrior
+1. Neutopia
 
 ## Nintendo Entertainment System
 
-* Super Mario Bros.
-* Super Mario Bros. 3
-* The Legend of Zelda
-* Castlevania III: Dracula’s Curse
-* Metroid
-* Battletoads
-* Bionic Commando
-* Adventure Island II
-* Ice Hockey
-* Rush’n Attack
+1. Super Mario Bros.
+1. Super Mario Bros. 3
+1. The Legend of Zelda
+1. Castlevania III: Dracula’s Curse
+1. Metroid
+1. Battletoads
+1. Bionic Commando
+1. Adventure Island II
+1. Ice Hockey
+1. Rush’n Attack
 
 ## Nintendo Game Boy
 
-* Kirby's Dream Land 2
-* Final Fantasy Legend 2
-* Donkey Kong (Game Boy)
-* Final Fantasy Legend 3
-* Contra: The Alien Wars
-* Teenage Mutant Ninja Turtles: Fall of the Foot Clan
-* Mega Man IV
-* Motocross Maniacs
-* Pokémon (Red/Blue/Yellow)
-* Wario Land: Super Mario Land 3
+1. Kirby's Dream Land 2
+1. Final Fantasy Legend 2
+1. Donkey Kong (Game Boy)
+1. Final Fantasy Legend 3
+1. Contra: The Alien Wars
+1. Teenage Mutant Ninja Turtles: Fall of the Foot Clan
+1. Mega Man IV
+1. Motocross Maniacs
+1. Pokémon (Red/Blue/Yellow)
+1. Wario Land: Super Mario Land 3
 
 ## Nintendo Game Boy Color
 
-* Metal Gear Solid
-* The Legend of Zelda: Oracle of Seasons
-* Pokémon Crystal Version
-* The Legend of Zelda: Link's Awakening DX
-* Shantae
-* Deadeus
-* Kirby Tilt 'n' Tumble
-* Dragon Quest I & II
-* Harvest Moon GBC 2
-* Pokémon Card GB2: GR Dan Sanjou!
+1. Metal Gear Solid
+1. The Legend of Zelda: Oracle of Seasons
+1. Pokémon Crystal Version
+1. The Legend of Zelda: Link's Awakening DX
+1. Shantae
+1. Deadeus
+1. Kirby Tilt 'n' Tumble
+1. Dragon Quest I & II
+1. Harvest Moon GBC 2
+1. Pokémon Card GB2: GR Dan Sanjou!
 
 ## Super Nintendo Entertainment System (SNES)
 
-* The Legend of Zelda: A Link to the Past
-* Chrono Trigger
-* Super Metroid
-* Final Fantasy VI
-* Super Mario World
-* Street Fighter II Turbo
-* Super Mario World 2: Yoshi’s Island
-* Super Mario Kart
-* Star Fox
-* Super Mario RPG: Legend of the Seven Stars
+1. The Legend of Zelda: A Link to the Past
+1. Chrono Trigger
+1. Super Metroid
+1. Final Fantasy VI
+1. Super Mario World
+1. Street Fighter II Turbo
+1. Super Mario World 2: Yoshi’s Island
+1. Super Mario Kart
+1. Star Fox
+1. Super Mario RPG: Legend of the Seven Stars
 
 ## Nintendo 64
 
-* The Legend of Zelda: Ocarina of Time
-* Super Mario 64
-* The Legend of Zelda: Majora’s Mask
-* Banjo-Kazooie
-* Perfect Dark
-* GoldenEye 007
-* Star Fox 64
-* Paper Mario
-* Super Smash Bros.
-* Mario Kart 64
+1. The Legend of Zelda: Ocarina of Time
+1. Super Mario 64
+1. The Legend of Zelda: Majora’s Mask
+1. Banjo-Kazooie
+1. Perfect Dark
+1. GoldenEye 007
+1. Star Fox 64
+1. Paper Mario
+1. Super Smash Bros.
+1. Mario Kart 64
+
+## Nintendo Game Boy Advance
+
+1. Super Mario Advance 4: Super Mario Bros. 3
+1. The Legend of Zelda: A Link to the Past / Four Swords
+1. Tony Hawk’s Pro Skater 2
+1. Super Mario Advance 4: Super Mario Bros. 3 (remake and ranking repeat)
+1. Mario Kart: Super Circuit
+1. Advance Wars
+1. Pokémon FireRed/LeafGreen
+1. Final Fantasy Tactics Advance
+1. Ninja Five-O
+1. Mega Man Zero 4
 
 ## Nintendo DS
 
-* Elite Beat Agents
-* Castlevania: Dawn of Sorrow
-* Brain Age: Train Your Brain in Minutes a Day
-* Phoenix Wright: Ace Attorney
-* Pokemon Pearl Version
-* The World Ends with You
-* Advance Wars: Dual Strike
-* The Legend of Zelda: Phantom Hourglass
-* Hotel Dusk: Room 215
-* Osu! Tatakae! Ouendan​1​
+1. Elite Beat Agents
+1. Castlevania: Dawn of Sorrow
+1. Brain Age: Train Your Brain in Minutes a Day
+1. Phoenix Wright: Ace Attorney
+1. Pokemon Pearl Version
+1. The World Ends with You
+1. Advance Wars: Dual Strike
+1. The Legend of Zelda: Phantom Hourglass
+1. Hotel Dusk: Room 215
+1. Osu! Tatakae! Ouendan​1​
 
 ## Nintendo 3DS
 
-* The Legend of Zelda: Ocarina of Time 3D
-* Fire Emblem: Awakening
-* The Legend of Zelda: A Link Between Worlds
-* Shovel Knight
-* Mario Kart 7
-* Bravely Default
-* Luigi’s Mansion (3DS)
-* Pokémon Sun and Moon / Pokémon X and Y
-* Monster Hunter 4 Ultimate
-* Super Mario Maker
+1. The Legend of Zelda: Ocarina of Time 3D
+1. Fire Emblem: Awakening
+1. The Legend of Zelda: A Link Between Worlds
+1. Shovel Knight
+1. Mario Kart 7
+1. Bravely Default
+1. Luigi’s Mansion (3DS)
+1. Pokémon Sun and Moon / Pokémon X and Y
+1. Monster Hunter 4 Ultimate
+1. Super Mario Maker
 
 ## Nintendo GameCube
 
-* Metroid Prime
-* Resident Evil 4
-* The Legend of Zelda: Twilight Princess
-* The Legend of Zelda: The Wind Waker
-* The Legend of Zelda Collector’s Edition
-* Mario Kart: Double Dash
-* Star Wars: Rogue Squadron II: Rogue Leader
-* Eternal Darkness: Sanity’s Requiem
-* WarioWare, Inc.: Mega Party Games!
-* Luigi’s Mansion
+1. Metroid Prime
+1. Resident Evil 4
+1. The Legend of Zelda: Twilight Princess
+1. The Legend of Zelda: The Wind Waker
+1. The Legend of Zelda Collector’s Edition
+1. Mario Kart: Double Dash
+1. Star Wars: Rogue Squadron II: Rogue Leader
+1. Eternal Darkness: Sanity’s Requiem
+1. WarioWare, Inc.: Mega Party Games!
+1. Luigi’s Mansion
 
 ## Sega Master System
 
-* Psycho Fox
-* Sonic the Hedgehog 2
-* Phantasy Star
-* Golvellius: Valley of Doom
-* Golden Axe Warrior
-* Sonic Chaos
-* Castle of Illusion Starring Mickey Mouse
-* Land of Illusion Starring Mickey Mouse
-* The Lucky Dime Caper Starring Donald Duck
-* Wonder Boy III: The Dragon’s Trap
+1. Psycho Fox
+1. Sonic the Hedgehog 2
+1. Phantasy Star
+1. Golvellius: Valley of Doom
+1. Golden Axe Warrior
+1. Sonic Chaos
+1. Castle of Illusion Starring Mickey Mouse
+1. Land of Illusion Starring Mickey Mouse
+1. The Lucky Dime Caper Starring Donald Duck
+1. Wonder Boy III: The Dragon’s Trap
 
 ## Sega Genesis / Mega Drive
 
-* Sonic the Hedgehog 2
-* Streets of Rage 2
-* Phantasy Star IV
-* Gunstar Heroes
-* Street Fighter 2
-* Rocket Knight Adventures
-* Revenge of Shinobi
-* Strider
-* Golden Axe 2
-* Aero Blasters
+1. Sonic the Hedgehog 2
+1. Streets of Rage 2
+1. Phantasy Star IV
+1. Gunstar Heroes
+1. Street Fighter 2
+1. Rocket Knight Adventures
+1. Revenge of Shinobi
+1. Strider
+1. Golden Axe 2
+1. Aero Blasters
 
 ## Sega Game Gear
 
-* Sonic The Hedgehog 2
-* Sonic The Hedgehog
-* Mega Man
-* Gunstar Heroes
-* Fantastic Dizzy
-* Chakan: The Forever Man
-* Shining Force: The Sword of Hajya
-* Streets of Rage
-* Columns
-* Ax Battler: A Legend of Golden Axe
+1. Sonic The Hedgehog 2
+1. Sonic The Hedgehog
+1. Mega Man
+1. Gunstar Heroes
+1. Fantastic Dizzy
+1. Chakan: The Forever Man
+1. Shining Force: The Sword of Hajya
+1. Streets of Rage
+1. Columns
+1. Ax Battler: A Legend of Golden Axe
 
 ## Sega Saturn
 
-* Panzer Dragoon Saga
-* Virtua Fighter 2
-* Guardian Heroes
-* NiGHTS into Dreams...
-* Panzer Dragoon II Zwei
-* SEGA Rally
-* Virtua Cop
-* Saturn Bomberman
-* Astal
-* Dragon Force
+1. Panzer Dragoon Saga
+1. Virtua Fighter 2
+1. Guardian Heroes
+1. NiGHTS into Dreams...
+1. Panzer Dragoon II Zwei
+1. SEGA Rally
+1. Virtua Cop
+1. Saturn Bomberman
+1. Astal
+1. Dragon Force
 
 ## Sega Dreamcast
 
-* SoulCalibur
-* Tony Hawk's Pro Skater 2
-* NFL 2K1
-* Jet Set Radio
-* Resident Evil Code: Veronica
-* Quake III Arena
-* Skies of Arcadia
-* Test Drive Le Mans
-* NBA 2K1
-* Headhunter
+1. SoulCalibur
+1. Tony Hawk's Pro Skater 2
+1. NFL 2K1
+1. Jet Set Radio
+1. Resident Evil Code: Veronica
+1. Quake III Arena
+1. Skies of Arcadia
+1. Test Drive Le Mans
+1. NBA 2K1
+1. Headhunter
 
 ## Sony Playstation
 
-* Metal Gear Solid
-* Tekken 3
-* Tony Hawk's Pro Skater 2
-* Gran Turismo
-* Final Fantasy IX
-* Chrono Cross
-* Crash Bandicoot: Warped
-* Vagrant Story
-* Street Fighter Alpha 3
-* PaRappa the Rapper
+1. Metal Gear Solid
+1. Tekken 3
+1. Tony Hawk's Pro Skater 2
+1. Gran Turismo
+1. Final Fantasy IX
+1. Chrono Cross
+1. Crash Bandicoot: Warped
+1. Vagrant Story
+1. Street Fighter Alpha 3
+1. PaRappa the Rapper
 
 ## Sony Playstation 2
 
-* Tony Hawk's Pro Skater 3
-* Grand Theft Auto III
-* Resident Evil 4
-* Metal Gear Solid 2: Sons of Liberty
-* Grand Theft Auto: San Andreas
-* Guitar Hero 2
-* Spider-Man 2
-* SoulCalibur 2
-* Alien Hominid
-* The Mark of Kri
+1. Tony Hawk's Pro Skater 3
+1. Grand Theft Auto III
+1. Resident Evil 4
+1. Metal Gear Solid 2: Sons of Liberty
+1. Grand Theft Auto: San Andreas
+1. Guitar Hero 2
+1. Spider-Man 2
+1. SoulCalibur 2
+1. Alien Hominid
+1. The Mark of Kri
 
 ## Sony Playstation Portable (PSP)
 
-* God of War: Ghost of Sparta
-* Grand Theft Auto: Liberty City Stories
-* Daxter
-* Crisis Core: Final Fantasy VII
-* Final Fantasy Tactics: The War of the Lions
-* Metal Gear Solid: Peace Walker
-* Monster Hunter Freedom Unite
-* Kingdom Hearts: Birth by Sleep
-* Shin Megami Tensei: Persona 3
-* God of War: Chains of Olympus
+1. God of War: Ghost of Sparta
+1. Grand Theft Auto: Liberty City Stories
+1. Daxter
+1. Crisis Core: Final Fantasy VII
+1. Final Fantasy Tactics: The War of the Lions
+1. Metal Gear Solid: Peace Walker
+1. Monster Hunter Freedom Unite
+1. Kingdom Hearts: Birth by Sleep
+1. Shin Megami Tensei: Persona 3
+1. God of War: Chains of Olympus
 
 ## PC
 
-* Baldur's Gate 3
-* Indiana Jones and the Great Circle
-* Disco Elysium: The Final Cut
-* Grand Theft Auto V
-* Half-Life 2
-* The Orange Box
-* Oblivion Remastered
-* Clair Obscur: Expedition 33
-* Fatal Fury: City of the Wolves
-* Commandos: Origins
-* Blue Prince
-* The First Berserker: Khazan
-* Schedule 1 (Early Access)
-* Atomfall
+1. Baldur's Gate 3
+1. Indiana Jones and the Great Circle
+1. Disco Elysium: The Final Cut
+1. Grand Theft Auto V
+1. Half-Life 2
+1. The Orange Box
+1. Oblivion Remastered
+1. Clair Obscur: Expedition 33
+1. Fatal Fury: City of the Wolves
+1. Commandos: Origins
+1. Blue Prince
+1. The First Berserker: Khazan
+1. Schedule 1 (Early Access)
+1. Atomfall
